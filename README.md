@@ -1,2 +1,2 @@
-# practica_hector_y_mas
+# practica-hector-y-mas
 Repo de prueba para aprender GIT
